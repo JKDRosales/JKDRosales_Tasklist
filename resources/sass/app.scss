@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://scontent.fmnl9-2.fna.fbcdn.net/v/t1.6435-9/s851x315/119487173_1052452331839869_6268411343323092939_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=da31f3&_nc_ohc=VPg4YAYGDqMAX8UHint&_nc_ht=scontent.fmnl9-2.fna&tp=7&oh=401421278bb52090dd45df791fdf27a0&oe=608C7579https://scontent.fmnl9-2.fna.fbcdn.net/v/t1.6435-9/s851x315/119487173_1052452331839869_6268411343323092939_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=da31f3&_nc_ohc=VPg4YAYGDqMAX8UHint&_nc_ht=scontent.fmnl9-2.fna&tp=7&oh=401421278bb52090dd45df791fdf27a0&oe=608C7579");
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
